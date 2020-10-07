@@ -8,7 +8,7 @@ Currently I am working as a full stack developer for [Proemion](https://github.c
 
 ### Things I'm working with and I've worked with before:
 
-![Java](https://img.shields.io/badge/-Java-white?style=flat-square&logo=java&logoColor=red)
+![Java](https://img.shields.io/badge/-Java-green?style=flat-square&logo=java&logoColor=red)
 ![IntelliJ](https://img.shields.io/badge/-PostgreSQL-yellow?style=flat-square&logo=postgresql&logoColor=white)
 ![git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
@@ -23,7 +23,8 @@ Currently I am working as a full stack developer for [Proemion](https://github.c
 ![AWS](https://img.shields.io/badge/-AWS-yellow?style=flat-square&logo=amazon&logoColor=white)
 
 ---
-### Things I'm currenlty learning
+### Things I'm currently learning
+- React, Swift, SwiftUI
 
 <!--
 **Severon96/Severon96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
