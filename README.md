@@ -13,6 +13,7 @@ Currently I am working as a full stack developer for [Proemion](https://github.c
 ![git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-grey?style=flat-square&logo=php)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
@@ -24,7 +25,7 @@ Currently I am working as a full stack developer for [Proemion](https://github.c
 
 ---
 ### Things I'm currently learning
-- React, Swift, SwiftUI
+- Rust, Swift, SwiftUI
 
 <!--
 **Severon96/Severon96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
