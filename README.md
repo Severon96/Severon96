@@ -2,7 +2,7 @@
 
 I am Dominik and from Germany. For several years I have been working as a Java developer.
 
-Currently I am working as a full stack developer for [Proemion](https://github.com/Proemion) where I'm mostly doing some Java-FX and Backend-Stuff.
+Currently I am working as a backend developer for [trive.me](https://github.com/triveme) where I'm mostly doing some NodeJS and Python-Stuff.
 
 ---
 
@@ -19,6 +19,7 @@ Currently I am working as a full stack developer for [Proemion](https://github.c
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![html5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-46a2f1?style=flat-square&logo=Python&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-important?style=flat-square&logo=swift&logoColor=white)
 ![XCode](https://img.shields.io/badge/-XCode-blue?style=flat-square&logo=xcode&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-yellow?style=flat-square&logo=amazon&logoColor=white)
