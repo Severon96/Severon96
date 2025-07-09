@@ -1,12 +1,9 @@
 # Hi there! 👋
 
-🔭 I’m currently working on my Skills.
-
-🌱 I’m currently learning more about Mobile and Microservice development.
-
-🧠 I'm always open to learn something new.
-
-💬 Ask me about any tech-related stuff.
+🔭 I’m currently working on my Skills.  
+🌱 I’m currently learning more about Mobile and Microservice development.  
+🧠 I'm always open to learn something new.  
+💬 Ask me about any tech-related stuff.  
 
 ---
 
